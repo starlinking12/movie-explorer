@@ -4,6 +4,8 @@ A cinematic movie search app built with **React, TypeScript and Tailwind CSS**. 
 
 Movie data comes from the [OMDb API](https://www.omdbapi.com/) through a small serverless proxy that keeps the API keys secret, caches answers, and switches keys automatically if one hits its daily limit.
 
+**Live demo:** [movie-explorer-starlin.vercel.app](https://movie-explorer-starlin.vercel.app)
+
 ![Search results](screenshots/search-results.jpg)
 
 ## Features
